@@ -1,0 +1,631 @@
+{VERSION 5 0 "Windows Server 2016" "5.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0
+ 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Tit
+le" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 
+}3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variab
+le" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Un
+derlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE
+ "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small205205" -1 200 "Times" 1 1 0 0 0 1 1 2 2 
+2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 
+2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 201 "Times" 1 12 175 0 175 1
+ 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 
+12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1
+ 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 
+255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 202 "Courier New" 1 
+12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times
+" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Time
+s" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10
+ "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Ti
+mes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Tim
+es" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 
+203 "Times" 1 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Norm
+al" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Inp
+ut" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Page N
+umber" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Header
+ and Footer" -1 204 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Help Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE
+ "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small205" -1 205 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 
+2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 206 "Times" 1 1 0 0 0
+ 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0
+ 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 207 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple Name" -1 35 "
+Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 208 "Ti
+mes" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Tim
+es" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic"
+ -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Refe
+rence" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Defau
+lt" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Ital
+ic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Mapl
+e Input Placeholder" -1 210 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2
+ 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Equation Label" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 
+2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 
+0 0 0 1 }{CSTYLE "Caption Text" -1 212 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 213 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 209 1 {CSTYLE ""
+ -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }}
+{SECT 0 {PARA 208 "" 0 "" {TEXT 208 20 "file : funcboom.mws\n" }{TEXT
+ 213 59 "Berekening van de functies alpha, Gamma, rho,  sigma en Phi" 
+}}{PARA 209 "" 0 "" {TEXT 208 24 "zie cursus paragraaf 8.3" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "protect(f):" }}{PARA 0 "" 0 "" 
+{TEXT 214 95 "#####  The following routines compute Butcher's Runge-Ku
+tta weight Phi(tree)  associated with \n" }{TEXT 214 46 "#####  an RK \+
+scheme given by the Butcher table" }}{PARA 0 "" 0 "" {TEXT 214 5 "####
+#" }}{PARA 0 "" 0 "" {TEXT 214 40 "#####        c[1] |  a[1,1]  ...  a
+[1,s]" }}{PARA 0 "" 0 "" {TEXT 214 40 "#####          .  |    .     . \+
+     .   " }}{PARA 0 "" 0 "" {TEXT 214 40 "#####          .  |    .   \+
+   .     .   " }}{PARA 0 "" 0 "" {TEXT 214 40 "#####          .  |    \+
+.       .    .   " }}{PARA 0 "" 0 "" {TEXT 214 40 "#####        c[s] |
+  a[s,1]  ...  a[s,s]" }}{PARA 0 "" 0 "" {TEXT 214 40 "#####        --
+-------------------------" }}{PARA 0 "" 0 "" {TEXT 214 39 "#####      \+
+       |   b[1]   ...   b[s]" }}{PARA 0 "" 0 "" {TEXT 214 5 "#####" }}
+{PARA 0 "" 0 "" {TEXT 214 84 "##### The arrays c[i], a[i,j], b[j] are \+
+used globally (and so is the stagenumber s)." }}{PARA 0 "" 0 "" {TEXT 
+214 43 "##### Rooted trees are defined recursively:" }}{PARA 0 "" 0 ""
+ {TEXT 214 36 "#####     f( tree.1 * ... * tree.k )" }}{PARA 0 "" 0 ""
+ {TEXT 214 77 "##### is the grafting of the rooted trees tree.1,...,tr
+ee.k onto a new root. " }}{PARA 0 "" 0 "" {TEXT 214 54 "##### A single
+ root is defined by the expression f(1)." }}{PARA 0 "" 0 "" {TEXT 214 
+48 "##### Examples:      f(1)         =   X   (root)" }}{PARA 0 "" 0 "
+" {TEXT 214 42 "#####              f(f(1))        =   X--o" }}{PARA 0 
+"" 0 "" {TEXT 214 49 "#####                                           \+
+o" }}{PARA 0 "" 0 "" {TEXT 214 48 "#####                              \+
+            /" }}{PARA 0 "" 0 "" {TEXT 214 41 "#####           f(f(1)^
+2*f(f(1))) =  X--o" }}{PARA 0 "" 0 "" {TEXT 214 48 "#####             \+
+                             \\" }}{PARA 0 "" 0 "" {TEXT 214 52 "#####
+                                           o--o" }}{PARA 0 "" 0 "" 
+{TEXT 214 43 "##### Note:  f is a globally reserved name." }}{PARA 0 "
+" 0 "" {TEXT 214 61 "##### gamma is the density of a tree, the order e
+quations are" }}{PARA 0 "" 0 "" {TEXT 214 34 "#####   Phi(tree) = 1/Ga
+mma(tree)." }}{PARA 0 "" 0 "" {TEXT 214 7 "#####  " }}{PARA 0 "" 0 "" 
+{TEXT 214 69 "##### There is a routine generate_all_trees_of_order:=pr
+oc(n) ... end" }}{PARA 0 "" 0 "" {TEXT 214 73 "##### which generates a
+ list of all rooted trees with exactly n vertices." }}{PARA 0 "" 0 "" 
+{TEXT 214 5 "#####" }}{PARA 0 "" 0 "" {TEXT 214 71 "#####  The followi
+ng code is tested (and works) in Maple V R3 and V R4." }}{PARA 0 "" 0 
+"" {TEXT 214 37 "##### The routines made available are" }}{PARA 0 "" 0
+ "" {TEXT 214 41 "#####      TreeDecomposition  (auxiliary)" }}{PARA 0
+ "" 0 "" {TEXT 214 38 "#####      rho   (the order of a tree)" }}
+{PARA 0 "" 0 "" {TEXT 214 54 "#####      Gamma              (the densi
+ty of a tree)\n" }{TEXT 214 54 "#####      sigma             (the symm
+etry of a tree)\n" }{TEXT 214 79 "#####     alpha              (essent
+ial different monotone labelings of a tree)" }}{PARA 0 "" 0 "" {TEXT 
+214 51 "#####      Phi                (Butcher's RK weight)" }}{PARA 0
+ "" 0 "" {TEXT 214 41 "#####      vecPhi             (auxiliary)" }}
+{PARA 0 "" 0 "" {TEXT 214 41 "#####      add_node_to        (auxiliary
+)" }}{PARA 0 "" 0 "" {TEXT 214 74 "#####      generate_all_trees_of_or
+der  (automatically generate all rooted" }}{PARA 0 "" 0 "" {TEXT 214 
+75 "#####                                    trees with a given order \+
+(= number" }}{PARA 0 "" 0 "" {TEXT 214 54 "#####                      \+
+              of vertices))" }}{PARA 0 "" 0 "" {TEXT 214 29 "##### Of \+
+general interest are" }}{PARA 0 "" 0 "" {TEXT 214 53 "#####      Gamma
+              (the density of a tree)" }}{PARA 0 "" 0 "" {TEXT 214 51 
+"#####      Phi                (Butcher's RK weight)" }}{PARA 0 "" 0 "
+" {TEXT 214 38 "#####     generate_all_trees_of_order " }}{PARA 0 "" 0
+ "" {TEXT 214 0 "" }}{PARA 0 "" 0 "" {TEXT 214 96 "#####  given   tree
+ = f( tree.1^p.1* ... *tree.k^p.k ). The following routine extracts th
+e list " }}{PARA 0 "" 0 "" {TEXT 214 54 "#####           [ [p.1,tree.1
+] , ... , [p.k,tree.k] ] " }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "TreeDe
+composition:=proc(tree)\n" }{MPLTEXT 1 0 31 "local result,subtrees,sub
+tree:\n" }{MPLTEXT 1 0 48 "if not (type(tree,`function`) and op(0,tree
+)=f)\n" }{MPLTEXT 1 0 34 "   then ERROR(`This is no tree`):\n" }
+{MPLTEXT 1 0 4 "fi:\n" }{MPLTEXT 1 0 19 "if tree=f(1) then \n" }
+{MPLTEXT 1 0 48 "   ERROR(`Isolated root cannot be decomposed`):\n" }
+{MPLTEXT 1 0 6 "else \n" }{MPLTEXT 1 0 16 "  result:=NULL:\n" }
+{MPLTEXT 1 0 22 "  subtrees:=op(tree):\n" }{MPLTEXT 1 0 30 "  if type(
+subtrees,`*`) then \n" }{MPLTEXT 1 0 32 "    for subtree in subtrees d
+o \n" }{MPLTEXT 1 0 34 "       if type(subtree,`**`) then\n" }{MPLTEXT
+ 1 0 40 "         result:=result,[op(2,subtree),\n" }{MPLTEXT 1 0 40 "
+                         op(1,subtree)]\n" }{MPLTEXT 1 0 40 "       el
+se result:=result,[1,subtree]:\n" }{MPLTEXT 1 0 11 "       fi:\n" }
+{MPLTEXT 1 0 8 "    od:\n" }{MPLTEXT 1 0 33 "   elif type(subtrees,`**
+`) then\n" }{MPLTEXT 1 0 53 "     result:=result,[op(2,subtrees),op(1,
+subtrees)]:\n" }{MPLTEXT 1 0 37 "   else result:=result,[1,subtrees]:
+\n" }{MPLTEXT 1 0 7 "   fi:\n" }{MPLTEXT 1 0 4 "fi:\n" }{MPLTEXT 1 0 
+10 "[result]:\n" }{MPLTEXT 1 0 4 "end:" }}{PARA 0 "" 0 "" {TEXT 214 
+39 "#### rho : number of vertices of a tree" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 19 "rho:=proc(tree):  \n" }{MPLTEXT 1 0 28 "if tree=f(1) \+
+then RETURN(1)\n" }{MPLTEXT 1 0 6 "else \n" }{MPLTEXT 1 0 37 "  subs( \+
+f= proc(a) x*a end , tree): \n" }{MPLTEXT 1 0 35 "  RETURN( [op(simpli
+fy(%))][2] ): \n" }{MPLTEXT 1 0 4 "fi:\n" }{MPLTEXT 1 0 5 "end:\n" }
+{TEXT 214 29 "#### the symmetry of a tree \n" }{MPLTEXT 1 0 18 "sigma:
+=proc(tree)\n" }{MPLTEXT 1 0 20 "local i,j,subtrees:\n" }{MPLTEXT 1 0 
+17 "option remember:\n" }{MPLTEXT 1 0 30 "if tree = f(1) then RETURN(1
+)\n" }{MPLTEXT 1 0 6 "else \n" }{MPLTEXT 1 0 37 "  subtrees:=TreeDecom
+position(tree):\n" }{MPLTEXT 1 0 57 "  RETURN(product((subtrees[j][1])
+!,j=1..nops(subtrees))*\n" }{MPLTEXT 1 0 53 "    product('sigma( subtr
+ees[i][2])^subtrees[i][1]',\n" }{MPLTEXT 1 0 36 "            i=1..nops
+(subtrees) )):\n" }{MPLTEXT 1 0 4 "fi:\n" }{MPLTEXT 1 0 4 "end:" }}
+{PARA 0 "" 0 "" {TEXT 214 29 "#####  the density of a tree\n" }
+{MPLTEXT 1 0 18 "Gamma:=proc(tree)\n" }{MPLTEXT 1 0 18 "local i,subtre
+es:\n" }{MPLTEXT 1 0 17 "option remember:\n" }{MPLTEXT 1 0 30 "if tree
+ = f(1) then RETURN(1)\n" }{MPLTEXT 1 0 6 "else \n" }{MPLTEXT 1 0 37 "
+  subtrees:=TreeDecomposition(tree):\n" }{MPLTEXT 1 0 13 "  rho(tree)*
+\n" }{MPLTEXT 1 0 53 "    product('Gamma( subtrees[i][2])^subtrees[i][
+1]',\n" }{MPLTEXT 1 0 35 "            i=1..nops(subtrees) ):\n" }
+{MPLTEXT 1 0 4 "fi:\n" }{MPLTEXT 1 0 5 "end:\n" }{TEXT 214 56 "##### e
+ssential different monotone labellings of a tree\n" }{MPLTEXT 1 0 48 "
+alpha:=tree->rho(tree)!/Gamma(tree)/sigma(tree):" }}{PARA 0 "" 0 "" 
+{TEXT 214 71 "##### Butcher's RK weight, uses the global variables s (
+= stage number)" }}{PARA 0 "" 0 "" {TEXT 214 67 "##### and the 1-dimen
+sional array b (this may also be a table) from" }}{PARA 0 "" 0 "" 
+{TEXT 214 70 "##### the Butcher table. The remaining Butcher parameter
+s a[i,j], c[i]" }}{PARA 0 "" 0 "" {TEXT 214 67 "##### of the Butcher t
+able are used in the subroutine vecPhi, which" }}{PARA 0 "" 0 "" {TEXT
+ 214 30 "##### defines Phi recursively:" }}{PARA 0 "" 0 "" {TEXT 214 
+39 "#####  Phi(  f( tree.1 * ... * tree.k )" }}{PARA 0 "" 0 "" {TEXT 
+214 51 "#####          = sum( b[j1] * vecPhi( tree.1)[j.1] " }}{PARA 0
+ "" 0 "" {TEXT 214 34 "#####                       * ... " }}{PARA 0 "
+" 0 "" {TEXT 214 53 "#####                       * vecPhi(tree.k)[j.k]
+ ) ," }}{PARA 0 "" 0 "" {TEXT 214 30 "#####                 j1=1..s)" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "Phi:=proc(tree)\n" }{MPLTEXT 1 0 
+21 "local i,j1,subtrees:\n" }{MPLTEXT 1 0 25 "global b,s,indexcounter:
+\n" }{MPLTEXT 1 0 56 "   if tree=f(1) then RETURN( sum(b[j1],j1=1..s )
+ ): fi:\n" }{MPLTEXT 1 0 38 "   subtrees:=TreeDecomposition(tree):\n" 
+}{MPLTEXT 1 0 54 "   indexcounter:=1:#use different names j1,j2,... fo
+r\n" }{MPLTEXT 1 0 58 "                   #the summation indices in th
+e multiple\n" }{MPLTEXT 1 0 54 "                   #summation defining
+ the weight Phi\n" }{MPLTEXT 1 0 18 "   sum( b[j1]*   \n" }{MPLTEXT 1 
+0 57 "   product('vecPhi(j1,subtrees[i][2])^(subtrees[i][1])',\n" }
+{MPLTEXT 1 0 44 "          i=1..nops(subtrees) ), j1=1..s ):\n" }
+{MPLTEXT 1 0 4 "end:" }}{PARA 0 "" 0 "" {TEXT 214 55 "##### Butcher's \+
+RK weights associated with the internal" }}{PARA 0 "" 0 "" {TEXT 214 
+43 "##### stages. Their recursive definition is" }}{PARA 0 "" 0 "" 
+{TEXT 214 45 "#####  vecPhi(  f( tree.1 * ... * tree.k )[i]" }}{PARA 0
+ "" 0 "" {TEXT 214 54 "#####          = sum( a[i,j.1] * vecPhi( tree.1
+)[j.1] " }}{PARA 0 "" 0 "" {TEXT 214 37 "#####                        \+
+  * ... " }}{PARA 0 "" 0 "" {TEXT 214 56 "#####                       \+
+   * vecPhi(tree.k)[j.k] ) ," }}{PARA 0 "" 0 "" {TEXT 214 31 "#####   \+
+              j.1=1..s)" }}{PARA 0 "" 0 "" {TEXT 214 56 "##### with   \+
+vecPhi( f(1) ) = c , where c is the vector " }}{PARA 0 "" 0 "" {TEXT 
+214 54 "##### of row-sums of the Butcher matrix a[i,j]. Both c" }}
+{PARA 0 "" 0 "" {TEXT 214 54 "##### and a are global arrays (or tables
+), the row-sum" }}{PARA 0 "" 0 "" {TEXT 214 59 "##### condition c[i]=s
+um(a[i,j],j=1..s) is NOT implemented:" }}{PARA 0 "" 0 "" {TEXT 214 56 
+"##### c[i] and a[i,j] turn up as independent parameters." }}{PARA 0 "
+> " 0 "" {MPLTEXT 1 0 21 "vecPhi:=proc(k,tree)\n" }{MPLTEXT 1 0 29 "lo
+cal i,j,subtrees,newindex:\n" }{MPLTEXT 1 0 27 "global a,c,s,indexcoun
+ter:\n" }{MPLTEXT 1 0 17 "option remember:\n" }{MPLTEXT 1 0 39 "   if \+
+tree=f(1) then RETURN(c[k]): fi:\n" }{MPLTEXT 1 0 38 "   subtrees:=Tre
+eDecomposition(tree):\n" }{MPLTEXT 1 0 20 "   indexcounter:=0;\n" }
+{MPLTEXT 1 0 33 "   indexcounter:=indexcounter+1:\n" }{MPLTEXT 1 0 30 
+"   newindex:=j[indexcounter]:\n" }{MPLTEXT 1 0 45 "       # use a dif
+ferent name j1,j2 etc. for\n" }{MPLTEXT 1 0 45 "       # the summation
+ variable used in each\n" }{MPLTEXT 1 0 24 "       # call of vecPhi\n"
+ }{MPLTEXT 1 0 48 "   sum( a[k,newindex]*product('vecPhi(newindex,\n" 
+}{MPLTEXT 1 0 50 "               subtrees[i][2])^(subtrees[i][1])',\n"
+ }{MPLTEXT 1 0 41 "                  i=1..nops(subtrees) ),\n" }
+{MPLTEXT 1 0 25 "        newindex=1..s ):\n" }{MPLTEXT 1 0 4 "end:" }}
+{PARA 0 "" 0 "" {TEXT 214 57 "#####   auxiliary routine for generating
+ all trees with a" }}{PARA 0 "" 0 "" {TEXT 214 60 "#####   given numbe
+r of vertices. It attaches one additional" }}{PARA 0 "" 0 "" {TEXT 
+214 60 "#####   edge to each vertex in a given tree and stores the \n"
+ }{TEXT 214 61 "#####   resulting trees in a set (to eliminate  duplic
+ations)" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "add_node_to:=proc(tree)
+\n" }{MPLTEXT 1 0 34 "local result,subtrees,subtree,xx:\n" }{MPLTEXT 
+1 0 17 "option remember:\n" }{MPLTEXT 1 0 42 "  if tree=f(1) then RETU
+RN(\{f(f(1))\}):fi:\n" }{MPLTEXT 1 0 35 "  result:=\{ f( f(1)*op(tree)
+ )  \}:\n" }{MPLTEXT 1 0 37 "  subtrees:=TreeDecomposition(tree):\n" }
+{MPLTEXT 1 0 29 "  for subtree in subtrees do\n" }{MPLTEXT 1 0 43 "   \+
+   for xx in add_node_to(subtree[2]) do\n" }{MPLTEXT 1 0 31 "         \+
+result:=result union \n" }{MPLTEXT 1 0 51 "                 \{ f(  op(
+tree)/subtree[2]*xx ) \}:\n" }{MPLTEXT 1 0 10 "      od:\n" }{MPLTEXT 
+1 0 6 "  od:\n" }{MPLTEXT 1 0 10 "  result:\n" }{MPLTEXT 1 0 4 "end:" 
+}}{PARA 0 "" 0 "" {TEXT 214 54 "#####  Generate a list with all trees \+
+with n vertices." }}{PARA 0 "" 0 "" {TEXT 214 53 "#####  Assume you ha
+ve a set of all rooted trees with" }}{PARA 0 "" 0 "" {TEXT 214 56 "###
+##  exactly n-1 vertices each. You get the set of all" }}{PARA 0 "" 0 
+"" {TEXT 214 57 "#####  rooted trees with exactly n vertices by adding
+ one" }}{PARA 0 "" 0 "" {TEXT 214 58 "#####  edge to each vertex of ea
+ch tree with n-1 vertices." }}{PARA 0 "" 0 "" {TEXT 214 62 "#####  Dup
+lications occur this way: store everything in a set " }}{PARA 0 "" 0 "
+" {TEXT 214 58 "#####  to eliminate duplications. Finally, convert the
+ set" }}{PARA 0 "" 0 "" {TEXT 214 17 "#####  to a list." }}{PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 37 "generate_all_trees_of_order:=proc(n)\n" }
+{MPLTEXT 1 0 20 "local result, tree:\n" }{MPLTEXT 1 0 17 "option remem
+ber:\n" }{MPLTEXT 1 0 34 " if n=1 then RETURN([ f(1) ]) fi:\n" }
+{MPLTEXT 1 0 13 " result:=\{\}:\n" }{MPLTEXT 1 0 49 " for tree in gene
+rate_all_trees_of_order(n-1) do\n" }{MPLTEXT 1 0 44 "    result:=resul
+t union add_node_to(tree):\n" }{MPLTEXT 1 0 5 " od:\n" }{MPLTEXT 1 0 
+15 " [op(result)]:\n" }{MPLTEXT 1 0 4 "end:" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}{PARA 0 "" 0 "" {TEXT 214 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 42 "bomen1 := generate_all_trees_of_order(1);\n"
+ }{MPLTEXT 1 0 42 "bomen2 := generate_all_trees_of_order(2);\n" }
+{MPLTEXT 1 0 41 "bomen3 := generate_all_trees_of_order(3);" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 41 "bomen4 := generate_all_trees_of_order(4);
+" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 41 "bomen5 := generate_all_trees_
+of_order(5);" }{MPLTEXT 1 0 1 "\n" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I'
+bomen1G6\"7#-I\"fG%*protectedG6#\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20
+ ">I'bomen2G6\"7#-I\"fG%*protectedG6#-F'6#\"\"\"" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I'bomen3G6\"7$-I\"fG%*protectedG6#*$-F'6#\"\"\"\"\"#-F'6
+#-F'6#F+" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I'bomen4G6\"7&-I\"fG%*prote
+ctedG6#*$-F'6#\"\"\"\"\"$-F'6#*&F+F--F'6#F+F--F'6#-F'6#*$F+\"\"#-F'6#-
+F'6#F2" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I'bomen5G6\"7+-I\"fG%*protect
+edG6#*$-F'6#\"\"\"\"\"%-F'6#*$-F'6#F+\"\"#-F'6#*&F+F--F'6#*$F+F4F--F'6
+#*&F+F--F'6#F2F--F'6#*&F+F4F2F--F'6#-F'6#*$F+\"\"$-F'6#-F'6#*&F+F-F2F-
+-F'6#-F'6#F8-F'6#-F'6#F>" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 
+"map(tree->Phi(tree)-1/Gamma(tree),bomen3);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "7$,&-I$sumG6$%*protectedGI(_syslibG6\"6$*&&I\"bGF)6#I#j1G
+6#/I'_localGF'I0_n2248802697504GF)\"\"\"&I\"cGF)F.\"\"#/F/;F4I\"sGF)F4
+#!\"\"\"\"$F4,&-F%6$*&F,F4-F%6$*&&I\"aGF)6$F/&I\"jG6#/F2I0_n2248854677
+664GF)6#F4F4&F66#FHF4/FHF9F4F8F4#F<\"\"'F4" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 33 "th := sqrt(3)/6;\nc[1] := 1/2-th;\n" }{MPLTEXT 1 0 
+16 "c[2] := 1/2+th;\n" }{MPLTEXT 1 0 40 "g := cosh(2*z*th)/cosh(z/2)/c
+osh(z*th);\n" }{MPLTEXT 1 0 32 "b[1] := sinh(z/2)/z/cosh(z*th);\n" }
+{MPLTEXT 1 0 14 "b[2] := b[1];\n" }{MPLTEXT 1 0 31 "l := -sinh(z*th)/c
+osh(z*th)/z;\n" }{MPLTEXT 1 0 20 "a[1,1] := g*b[1]/2;\n" }{MPLTEXT 1 
+0 18 "a[2,2] := a[1,1];\n" }{MPLTEXT 1 0 20 "a[1,2] := a[1,1]+l;\n" }
+{MPLTEXT 1 0 20 "a[2,1] := a[1,1]-l;\n" }{MPLTEXT 1 0 7 "s := 2;" }
+{MPLTEXT 1 0 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I#thG6\",$*$\"\"$#
+\"\"\"\"\"##F)\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"cG6\"6#\"\"
+\",&#F'\"\"#F'*$\"\"$F)#!\"\"\"\"'" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&
+I\"cG6\"6#\"\"#,&#\"\"\"F'F**$\"\"$F)#F*\"\"'" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"gG6\"*(-I%coshG6$%*protectedGI(_syslibGF$6#,$*&I\"zGF
+$\"\"\"\"\"$#F/\"\"##F/F0F/-F'6#,$F.F1!\"\"-F'6#,$F-#F/\"\"'F7" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"bG6\"6#\"\"\"*(-I%sinhG6$%*protecte
+dGI(_syslibGF%6#,$I\"zGF%#F'\"\"#F'F0!\"\"-I%coshGF+6#,$*&F0F'\"\"$F1#
+F'\"\"'F3" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"bG6\"6#\"\"#*(-I%sinhG
+6$%*protectedGI(_syslibGF%6#,$I\"zGF%#\"\"\"F'F2F0!\"\"-I%coshGF+6#,$*
+&F0F2\"\"$F1#F2\"\"'F3" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"lG6\",$*(-
+I%sinhG6$%*protectedGI(_syslibGF$6#,$*&I\"zGF$\"\"\"\"\"$#F0\"\"##F0\"
+\"'F0-I%coshGF)F,!\"\"F/F8F8" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"aG6
+\"6$\"\"\"F',$*,-I%coshG6$%*protectedGI(_syslibGF%6#,$*&I\"zGF%F'\"\"$
+#F'\"\"##F'F3F'-F+6#,$F2F4!\"\"-F+6#,$F1#F'\"\"'!\"#-I%sinhGF,F8F'F2F:
+F4" }}{PARA 11 "" 1 "" {XPPMATH 20 ">&I\"aG6\"6$\"\"#F',$*,-I%coshG6$%
+*protectedGI(_syslibGF%6#,$*&I\"zGF%\"\"\"\"\"$#F3F'#F3F4F3-F+6#,$F2F5
+!\"\"-F+6#,$F1#F3\"\"'!\"#-I%sinhGF,F8F3F2F:F5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"aG6\"6$\"\"\"\"\"#,&*,-I%coshG6$%*protectedGI(_sysli
+bGF%6#,$*&I\"zGF%F'\"\"$#F'F(#F'F4F'-F,6#,$F3F5!\"\"-F,6#,$F2#F'\"\"'!
+\"#-I%sinhGF-F8F'F3F:F5*(-FBF<F'F;F:F3F:F:" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">&I\"aG6\"6$\"\"#\"\"\",&*,-I%coshG6$%*protectedGI(_sysli
+bGF%6#,$*&I\"zGF%F(\"\"$#F(F'#F(F4F(-F,6#,$F3F5!\"\"-F,6#,$F2#F(\"\"'!
+\"#-I%sinhGF-F8F(F3F:F5*(-FBF<F(F;F:F3F:F(" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ">I\"sG6\"\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+5 "vwn:=" }{MPLTEXT 1 0 66 "map(tree->alpha(tree)*(1-series(Phi(tree)*
+Gamma(tree),z)),bomen1):" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 46 "map(v
+w->simplify(series(simplify(vw),z)),vwn);" }{MPLTEXT 1 0 1 "\n" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "7#+'I\"zG6\"#!\"\"\"%?V\"\"%-I\"OG6$%*pr
+otectedGI(_syslibG6\"6#\"\"\"\"\"'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"vwn\", italic = \"t
+rue\", mathvariant = \"italic\"), Typesetting:-mo(\"&coloneq;\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace =
+ \"0.2777778em\"), Typesetting:-mi(\"map\", italic = \"true\", mathvar
+iant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting
+:-mi(\"tree\", italic = \"true\", mathvariant = \"italic\"), Typesetti
+ng:-mo(\"&srarr;\", mathvariant = \"normal\", fence = \"false\", separ
+ator = \"false\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"&alpha;\", italic = \+
+\"false\", mathvariant = \"normal\"), Typesetting:-mfenced(Typesetting
+:-mrow(Typesetting:-mi(\"tree\", italic = \"true\", mathvariant = \"it
+alic\")), mathvariant = \"normal\"), Typesetting:-mo(\"*\", mathvarian
+t = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.1666667em\", rspace = \"0
+.1666667em\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mn(
+\"1\", mathvariant = \"normal\"), Typesetting:-mo(\"&uminus0;\", mathv
+ariant = \"normal\", fence = \"false\", separator = \"false\", stretch
+y = \"false\", symmetric = \"false\", largeop = \"false\", movablelimi
+ts = \"false\", accent = \"false\", lspace = \"0.2222222em\", rspace =
+ \"0.2222222em\"), Typesetting:-mi(\"series\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesett
+ing:-mi(\"&Phi;\", italic = \"false\", mathvariant = \"normal\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"tree\", italic = \+
+\"true\", mathvariant = \"italic\")), mathvariant = \"normal\"), Types
+etting:-mo(\"*\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.1666667em\", rspace = \"0.1666667em\"), Typesetting:-mi(\"Gamma\", i
+talic = \"false\", mathvariant = \"normal\"), Typesetting:-mfenced(Typ
+esetting:-mrow(Typesetting:-mi(\"tree\", italic = \"true\", mathvarian
+t = \"italic\")), mathvariant = \"normal\"), Typesetting:-mo(\",\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"true\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.3333333em\"), Typesetting:-mi(\"z\", italic = \"true\", mathvariant =
+ \"italic\")), mathvariant = \"normal\")), mathvariant = \"normal\"), \+
+Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"true\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"bomen2\", it
+alic = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\")
+, Typesetting:-mo(\":\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"false\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mspace(h
+eight = \"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak = \+
+\"newline\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em
+\", depth = \"0.0ex\", linebreak = \"auto\"), Typesetting:-mi(\"map\",
+ italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Ty
+pesetting:-mrow(Typesetting:-mi(\"vw\", italic = \"true\", mathvariant
+ = \"italic\"), Typesetting:-mo(\"&srarr;\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), T
+ypesetting:-mi(\"simplify\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"series\"
+, italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(T
+ypesetting:-mrow(Typesetting:-mi(\"simplify\", italic = \"true\", math
+variant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesett
+ing:-mi(\"vw\", italic = \"true\", mathvariant = \"italic\")), mathvar
+iant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"true\", stretchy = \"false\", symmetri
+c = \"false\", largeop = \"false\", movablelimits = \"false\", accent \+
+= \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesettin
+g:-mi(\"z\", italic = \"true\", mathvariant = \"italic\")), mathvarian
+t = \"normal\")), mathvariant = \"normal\"), Typesetting:-mo(\",\", ma
+thvariant = \"normal\", fence = \"false\", separator = \"true\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.3333333em\"), Typesetting:-mi(\"vwn\", italic = \"true\", mathvariant
+ = \"italic\")), mathvariant = \"normal\"));" "-I%mrowG6#/I+modulename
+G6\"I,TypesettingGI(_syslibGF'6+-I#miGF$6%Q$vwnF'/%'italicGQ%trueF'/%,
+mathvariantGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'normalF'/%&fenceGQ&f
+alseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(largeopGF=/%.mova
+blelimitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rspaceGFL-F,6%Q$ma
+pF'F/F2-I(mfencedGF$6$-F#6*-F,6%Q%treeF'F/F2-F66-Q(&srarr;F'F9F;F>F@FB
+FDFFFH/FKQ&0.0emF'/FNFhn-F,6%Q(&alpha;F'/F0F=F9-FS6$-F#6#FWF9-F66-Q\"*
+F'F9F;F>F@FBFDFFFH/FKQ,0.1666667emF'/FNFfo-FS6$-F#6&-I#mnGF$6$Q\"1F'F9
+-F66-Q*&uminus0;F'F9F;F>F@FBFDFFFH/FKQ,0.2222222emF'/FNFdp-F,6%Q'serie
+sF'F/F2-FS6$-F#6)-F,6%Q&&Phi;F'F]oF9F^oFbo-F,6%Q&GammaF'F]oF9F^o-F66-Q
+\",F'F9F;/F?F1F@FBFDFFFHFgn/FNQ,0.3333333emF'-F,6%Q\"zF'F/F2F9F9Fcq-F,
+6%Q'bomen2F'F/F2F9-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM-I'mspaceGF$6&/%'heig
+htGQ&0.0exF'/%&widthGFhn/%&depthGFgr/%*linebreakGQ(newlineF'-Fcr6&FerF
+hrFjr/F]sQ%autoF'FO-FS6$-F#6(-F,6%Q#vwF'F/F2-F66-FfnF9F;F>F@FBFDFFFHFJ
+FM-F,6%Q)simplifyF'F/F2-FS6$-F#6$Ffp-FS6$-F#6&F\\t-FS6$-F#6#FgsF9FcqFi
+qF9F9FcqF+F9" }}{PARA 11 "" 1 "" {XPPMATH 20 "7#+'I\"zG6\"#!\"\"\"%?V
+\"\"%-I\"OG6$%*protectedGI(_syslibG6\"6#\"\"\"\"\"'" }}}{EXCHG {PARA 0
+ "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mi(\"vwn\", i
+talic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&colone
+q;\", mathvariant = \"normal\", fence = \"false\", separator = \"false
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.2777778em
+\", rspace = \"0.2777778em\"), Typesetting:-mi(\"map\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow
+(Typesetting:-mi(\"tree\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mo(\"&srarr;\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesetting:-mi(\"&alpha;
+\", italic = \"false\", mathvariant = \"normal\"), Typesetting:-mfence
+d(Typesetting:-mrow(Typesetting:-mi(\"tree\", italic = \"true\", mathv
+ariant = \"italic\")), mathvariant = \"normal\"), Typesetting:-mo(\"*
+\", mathvariant = \"normal\", fence = \"false\", separator = \"false\"
+, stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mo
+vablelimits = \"false\", accent = \"false\", lspace = \"0.1666667em\",
+ rspace = \"0.1666667em\"), Typesetting:-mfenced(Typesetting:-mrow(Typ
+esetting:-mn(\"1\", mathvariant = \"normal\"), Typesetting:-mo(\"&umin
+us0;\", mathvariant = \"normal\", fence = \"false\", separator = \"fal
+se\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\"
+, movablelimits = \"false\", accent = \"false\", lspace = \"0.2222222e
+m\", rspace = \"0.2222222em\"), Typesetting:-mi(\"series\", italic = \+
+\"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:
+-mrow(Typesetting:-mi(\"&Phi;\", italic = \"false\", mathvariant = \"n
+ormal\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"tre
+e\", italic = \"true\", mathvariant = \"italic\")), mathvariant = \"no
+rmal\"), Typesetting:-mo(\"*\", mathvariant = \"normal\", fence = \"fa
+lse\", separator = \"false\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.1666667em\", rspace = \"0.1666667em\"), Typesetting:-
+mi(\"Gamma\", italic = \"false\", mathvariant = \"normal\"), Typesetti
+ng:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"tree\", italic = \"tru
+e\", mathvariant = \"italic\")), mathvariant = \"normal\"), Typesettin
+g:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator = \+
+\"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fal
+se\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mi(\"z\", italic = \"true
+\", mathvariant = \"italic\")), mathvariant = \"normal\")), mathvarian
+t = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"normal\", fenc
+e = \"false\", separator = \"true\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:
+-mi(\"bomen3\", italic = \"true\", mathvariant = \"italic\")), mathvar
+iant = \"normal\"), Typesetting:-mo(\":\", mathvariant = \"normal\", f
+ence = \"false\", separator = \"false\", stretchy = \"false\", symmetr
+ic = \"false\", largeop = \"false\", movablelimits = \"false\", accent
+ = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778em\"), Typ
+esetting:-mspace(height = \"0.0ex\", width = \"0.0em\", depth = \"0.0e
+x\", linebreak = \"newline\"), Typesetting:-mspace(height = \"0.0ex\",
+ width = \"0.0em\", depth = \"0.0ex\", linebreak = \"auto\"), Typesett
+ing:-mi(\"map\", italic = \"true\", mathvariant = \"italic\"), Typeset
+ting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"vw\", italic = \"tru
+e\", mathvariant = \"italic\"), Typesetting:-mo(\"&srarr;\", mathvaria
+nt = \"normal\", fence = \"false\", separator = \"false\", stretchy = \+
+\"false\", symmetric = \"false\", largeop = \"false\", movablelimits =
+ \"false\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0
+.2777778em\"), Typesetting:-mi(\"simplify\", italic = \"true\", mathva
+riant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(Typesettin
+g:-mi(\"series\", italic = \"true\", mathvariant = \"italic\"), Typese
+tting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"simplify\", italic \+
+= \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesettin
+g:-mrow(Typesetting:-mi(\"vw\", italic = \"true\", mathvariant = \"ita
+lic\")), mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant
+ = \"normal\", fence = \"false\", separator = \"true\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333e
+m\"), Typesetting:-mi(\"z\", italic = \"true\", mathvariant = \"italic
+\")), mathvariant = \"normal\")), mathvariant = \"normal\"), Typesetti
+ng:-mo(\",\", mathvariant = \"normal\", fence = \"false\", separator =
+ \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \"fa
+lse\", movablelimits = \"false\", accent = \"false\", lspace = \"0.0em
+\", rspace = \"0.3333333em\"), Typesetting:-mi(\"vwn\", italic = \"tru
+e\", mathvariant = \"italic\")), mathvariant = \"normal\"));" "-I%mrow
+G6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6+-I#miGF$6%Q$vwnF'/%'it
+alicGQ%trueF'/%,mathvariantGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F3Q'norm
+alF'/%&fenceGQ&falseF'/%*separatorGF=/%)stretchyGF=/%*symmetricGF=/%(l
+argeopGF=/%.movablelimitsGF=/%'accentGF=/%'lspaceGQ,0.2777778emF'/%'rs
+paceGFL-F,6%Q$mapF'F/F2-I(mfencedGF$6$-F#6*-F,6%Q%treeF'F/F2-F66-Q(&sr
+arr;F'F9F;F>F@FBFDFFFH/FKQ&0.0emF'/FNFhn-F,6%Q(&alpha;F'/F0F=F9-FS6$-F
+#6#FWF9-F66-Q\"*F'F9F;F>F@FBFDFFFH/FKQ,0.1666667emF'/FNFfo-FS6$-F#6&-I
+#mnGF$6$Q\"1F'F9-F66-Q*&uminus0;F'F9F;F>F@FBFDFFFH/FKQ,0.2222222emF'/F
+NFdp-F,6%Q'seriesF'F/F2-FS6$-F#6)-F,6%Q&&Phi;F'F]oF9F^oFbo-F,6%Q&Gamma
+F'F]oF9F^o-F66-Q\",F'F9F;/F?F1F@FBFDFFFHFgn/FNQ,0.3333333emF'-F,6%Q\"z
+F'F/F2F9F9Fcq-F,6%Q'bomen3F'F/F2F9-F66-Q\":F'F9F;F>F@FBFDFFFHFJFM-I'ms
+paceGF$6&/%'heightGQ&0.0exF'/%&widthGFhn/%&depthGFgr/%*linebreakGQ(new
+lineF'-Fcr6&FerFhrFjr/F]sQ%autoF'FO-FS6$-F#6(-F,6%Q#vwF'F/F2-F66-FfnF9
+F;F>F@FBFDFFFHFJFM-F,6%Q)simplifyF'F/F2-FS6$-F#6$Ffp-FS6$-F#6&F\\t-FS6
+$-F#6#FgsF9FcqFiqF9F9FcqF+F9" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$+'I\"z
+G6\"#!\"\"\"%?V\"\"%-I\"OG6$%*protectedGI(_syslibGF%6#\"\"\"\"\"'+)F$#
+F'\"#s\"\"##\"#6\"%g@F)F*F1" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1
+ "Typesetting:-mrow(Typesetting:-mi(\"\"), Typesetting:-mrow(Typesetti
+ng:-mi(\"vwn\", italic = \"true\", mathvariant = \"italic\"), Typesett
+ing:-mo(\"&coloneq;\", mathvariant = \"normal\", fence = \"false\", se
+parator = \"false\", stretchy = \"false\", symmetric = \"false\", larg
+eop = \"false\", movablelimits = \"false\", accent = \"false\", lspace
+ = \"0.2777778em\", rspace = \"0.2777778em\"), Typesetting:-mi(\"map\"
+, italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced(T
+ypesetting:-mrow(Typesetting:-mi(\"tree\", italic = \"true\", mathvari
+ant = \"italic\"), Typesetting:-mo(\"&srarr;\", mathvariant = \"normal
+\", fence = \"false\", separator = \"false\", stretchy = \"false\", sy
+mmetric = \"false\", largeop = \"false\", movablelimits = \"false\", a
+ccent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\"), Typesettin
+g:-mi(\"&alpha;\", italic = \"false\", mathvariant = \"normal\"), Type
+setting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"tree\", italic = \+
+\"true\", mathvariant = \"italic\")), mathvariant = \"normal\"), Types
+etting:-mo(\"*\", mathvariant = \"normal\", fence = \"false\", separat
+or = \"false\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.1666667em\", rspace = \"0.1666667em\"), Typesetting:-mfenced(Typeset
+ting:-mrow(Typesetting:-mn(\"1\", mathvariant = \"normal\"), Typesetti
+ng:-mo(\"&uminus0;\", mathvariant = \"normal\", fence = \"false\", sep
+arator = \"false\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.2222222em\", rspace = \"0.2222222em\"), Typesetting:-mi(\"series
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"&Phi;\", italic = \"false\", math
+variant = \"normal\"), Typesetting:-mfenced(Typesetting:-mrow(Typesett
+ing:-mi(\"tree\", italic = \"true\", mathvariant = \"italic\")), mathv
+ariant = \"normal\"), Typesetting:-mo(\"*\", mathvariant = \"normal\",
+ fence = \"false\", separator = \"false\", stretchy = \"false\", symme
+tric = \"false\", largeop = \"false\", movablelimits = \"false\", acce
+nt = \"false\", lspace = \"0.1666667em\", rspace = \"0.1666667em\"), T
+ypesetting:-mi(\"Gamma\", italic = \"false\", mathvariant = \"normal\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"tree\", it
+alic = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\")
+, Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"true\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"z\", itali
+c = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\")), \+
+mathvariant = \"normal\"), Typesetting:-mo(\",\", mathvariant = \"norm
+al\", fence = \"false\", separator = \"true\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"), Typ
+esetting:-mi(\"bomen5\", italic = \"true\", mathvariant = \"italic\"))
+, mathvariant = \"normal\"), Typesetting:-mo(\":\", mathvariant = \"no
+rmal\", fence = \"false\", separator = \"false\", stretchy = \"false\"
+, symmetric = \"false\", largeop = \"false\", movablelimits = \"false
+\", accent = \"false\", lspace = \"0.2777778em\", rspace = \"0.2777778
+em\"), Typesetting:-mspace(height = \"0.0ex\", width = \"0.0em\", dept
+h = \"0.0ex\", linebreak = \"newline\"), Typesetting:-mspace(height = \+
+\"0.0ex\", width = \"0.0em\", depth = \"0.0ex\", linebreak = \"auto\")
+, Typesetting:-mi(\"map\", italic = \"true\", mathvariant = \"italic\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"vw\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-mo(\"&srarr;\",
+ mathvariant = \"normal\", fence = \"false\", separator = \"false\", s
+tretchy = \"false\", symmetric = \"false\", largeop = \"false\", movab
+lelimits = \"false\", accent = \"false\", lspace = \"0.2777778em\", rs
+pace = \"0.2777778em\"), Typesetting:-mi(\"simplify\", italic = \"true
+\", mathvariant = \"italic\"), Typesetting:-mfenced(Typesetting:-mrow(
+Typesetting:-mi(\"series\", italic = \"true\", mathvariant = \"italic
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"simplify
+\", italic = \"true\", mathvariant = \"italic\"), Typesetting:-mfenced
+(Typesetting:-mrow(Typesetting:-mi(\"vw\", italic = \"true\", mathvari
+ant = \"italic\")), mathvariant = \"normal\"), Typesetting:-mo(\",\", \+
+mathvariant = \"normal\", fence = \"false\", separator = \"true\", str
+etchy = \"false\", symmetric = \"false\", largeop = \"false\", movable
+limits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\"), Typesetting:-mi(\"z\", italic = \"true\", mathvarian
+t = \"italic\")), mathvariant = \"normal\")), mathvariant = \"normal\"
+), Typesetting:-mo(\",\", mathvariant = \"normal\", fence = \"false\",
+ separator = \"true\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.3333333em\"), Typesetting:-mi(\"vwn\", it
+alic = \"true\", mathvariant = \"italic\")), mathvariant = \"normal\")
+), Typesetting:-mi(\"\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingG
+I(_syslibGF'6%-I#miGF$6#Q!F'-F#6+-F,6%Q$vwnF'/%'italicGQ%trueF'/%,math
+variantGQ'italicF'-I#moGF$6-Q*&coloneq;F'/F8Q'normalF'/%&fenceGQ&false
+F'/%*separatorGFB/%)stretchyGFB/%*symmetricGFB/%(largeopGFB/%.movablel
+imitsGFB/%'accentGFB/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ-F,6%Q$mapF'F
+4F7-I(mfencedGF$6$-F#6*-F,6%Q%treeF'F4F7-F;6-Q(&srarr;F'F>F@FCFEFGFIFK
+FM/FPQ&0.0emF'/FSF]o-F,6%Q(&alpha;F'/F5FBF>-FX6$-F#6#FfnF>-F;6-Q\"*F'F
+>F@FCFEFGFIFKFM/FPQ,0.1666667emF'/FSF[p-FX6$-F#6&-I#mnGF$6$Q\"1F'F>-F;
+6-Q*&uminus0;F'F>F@FCFEFGFIFKFM/FPQ,0.2222222emF'/FSFip-F,6%Q'seriesF'
+F4F7-FX6$-F#6)-F,6%Q&&Phi;F'FboF>FcoFgo-F,6%Q&GammaF'FboF>Fco-F;6-Q\",
+F'F>F@/FDF6FEFGFIFKFMF\\o/FSQ,0.3333333emF'-F,6%Q\"zF'F4F7F>F>Fhq-F,6%
+Q'bomen5F'F4F7F>-F;6-Q\":F'F>F@FCFEFGFIFKFMFOFR-I'mspaceGF$6&/%'height
+GQ&0.0exF'/%&widthGF]o/%&depthGF\\s/%*linebreakGQ(newlineF'-Fhr6&FjrF]
+sF_s/FbsQ%autoF'FT-FX6$-F#6(-F,6%Q#vwF'F4F7-F;6-F[oF>F@FCFEFGFIFKFMFOF
+R-F,6%Q)simplifyF'F4F7-FX6$-F#6$F[q-FX6$-F#6&Fat-FX6$-F#6#F\\tF>FhqF^r
+F>F>FhqF1F>F+" }}{PARA 11 "" 1 "" {XPPMATH 20 "7++)I\"zG6\"#\"\"\"\"#O
+\"\"!#!\"(\"&/6$\"\"%-I\"OG6$%*protectedGI(_syslibGF%6#F'\"\"'++F$#F'
+\"#7F)#\"\"&\"$;#\"\"##\"$>%F,F-F.F4++F$#!\"\"F4F)#!\"&F:F;#\"#$)\"%%=
+&F-F.F4++F$F?F)#FB\"#FF;#\"$x)\"&_b\"F-F.F4++F$#F'F4F)F8F;#\"#tFEF-F.F
+4++F$#F@\"\"*F)#!#D\"$['F;#\"#r\"%wxF-F.F4++F$#F@\"\"$F)#!#NF:F;#\"$h$
+FXF-F.F4++F$FMF)FfnF;#\"$z%FKF-F.F4++F$FMF)#FB\"#=F;#\"#*)\"%G<F-F.F4"
+ }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "" "%#%?G" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
